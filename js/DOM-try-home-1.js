@@ -1,4 +1,4 @@
-const animals = document.querySelector(".item")
+const animals = document.querySelector('.item')
 
 
 
