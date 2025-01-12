@@ -7,3 +7,4 @@ markup += `<div class = "item"></div>;`
 }
 
 container.innerHTML = markup;
+console.log(markup);
